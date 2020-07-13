@@ -1,5 +1,5 @@
 # Course-Management-System
-Here is Simple Pannel Screen Of Course Management System.
+Here is Simple Pannel Screen Of Course Management System in JAVA LANGUAGE ONLY.
 
 Only Login Option can Work rather All are Error Message!
 
